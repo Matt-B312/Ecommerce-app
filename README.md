@@ -12,8 +12,8 @@ This is an E-commerce web-site with stripe integration
 
 ## Screen Shots
 
-* ![alt text]()
-* ![alt text]()
+* ![alt text](https://i.imgur.com/ZVmMfVP.png)
+
 
 
 ## Built With:
