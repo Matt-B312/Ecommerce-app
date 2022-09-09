@@ -1,13 +1,11 @@
 
 <h1 align="center">Matt's PlayTech Store</h1>
 
-    Fourth Project for General Assembly SEI
-
 </div>
 
 ## General Overview
 
-This is an E-commerce web-site with stripe integration
+This is an E-commerce web-site with Stripe integration
 
 
 ## Screen Shots
